@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jasondsmith72-cwm-api-gateway-mcp-badge.png)](https://mseep.ai/app/jasondsmith72-cwm-api-gateway-mcp)
+
 # ConnectWise API Gateway MCP Server
 
 This Model Context Protocol (MCP) server provides a comprehensive interface for interacting with the ConnectWise Manage API. It simplifies API discovery, execution, and management for both developers and AI assistants.
